@@ -28,3 +28,11 @@ def f4(n):
     if n == 0 or n == 1:
         return 1
     return f4(n-1) + f4(n-2)
+
+if __name__ == '__main__':
+    n = 10000
+
+    print(f(n))
+    print(f2(n))
+    print(f3(n))
+    print(f4(n))
