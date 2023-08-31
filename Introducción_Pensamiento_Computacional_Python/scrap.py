@@ -6,7 +6,7 @@ from collections import namedtuple
 Temas = namedtuple('Temas',['title_text','link_href'])
 lista_temas = []
 
-url = "https://platzi.com/cursos/algoritmos-python/"
+url = "https://platzi.com/cursos/estructuras-datos-python/"
 
 r = requests.get(url)
 html_content = r.text

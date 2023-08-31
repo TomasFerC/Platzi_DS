@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../Introducción_Pensamiento_Computacional_Python"
+		},
+		{
+			"path": "../Complejidad_Algorítmica_Python"
+		},
+		{
+			"path": "../../Flet"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Complejidad_Algorítmica_Python"
+	}
+}
